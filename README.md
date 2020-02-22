@@ -1,16 +1,27 @@
-# expense_app
+<h1 align="center">Welcome to Flutter_Expense_App 👋</h1>
+<p>
+  <a href="https://twitter.com/anon_Goku" target="_blank">
+    <img alt="Twitter: anon\_Goku" src="https://img.shields.io/twitter/follow/anon_Goku.svg?style=social" />
+  </a>
+</p>
 
-A new Flutter project.
+> iOS/Android App for managing expenses on the go
 
-## Getting Started
+### ✨ [Demo](comming soon...)
 
-This project is a starting point for a Flutter application.
+## Author
 
-A few resources to get you started if this is your first Flutter project:
+👤 **Eric Owusu**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Website: www.owusu.io
+- Twitter: [@anon_Goku](https://twitter.com/anon_Goku)
+- Github: [@saizen408](https://github.com/saizen408)
+- LinkedIn: [@ericowusu](https://linkedin.com/in/ericowusu)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+---
+
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
